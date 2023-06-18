@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm Paolo Fosser
+## I'm Paolo Fosser
 
 Full-stack developer at [Sanmarco Informatica](https://www.sanmarcoinformatica.com/)
 <!--
