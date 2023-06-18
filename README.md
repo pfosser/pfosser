@@ -3,6 +3,9 @@
 ## I'm Paolo Fosser
 
 Full-stack developer at [Sanmarco Informatica](https://www.sanmarcoinformatica.com/)
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pfosser/pfosser/blob/master/devcard.svg" width="400" alt="Paolo Fosser's Dev Card"/></a>
+
 <!--
 **pfosser/pfosser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
